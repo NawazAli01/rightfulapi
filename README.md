@@ -10,9 +10,9 @@ Retreive: http://127.0.0.1:8000/employee/api/
 Update: http://127.0.0.1:8000/employee/api/<int:pk>
 Delete: http://127.0.0.1:8000/employee/api/<int:pk>/delete
 
-With the create request we can add employee data
-With Retrieve request we can retrieve/list employee data
-with update request we can update specific id data
-with delete request we can delete specific id data
+With the create request we can add employee data. 
+With Retrieve request we can retrieve/list employee data. 
+with update request we can update specific id data. 
+with delete request we can delete specific id data. 
 
 
