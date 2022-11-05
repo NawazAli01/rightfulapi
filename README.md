@@ -15,4 +15,4 @@ With Retrieve request we can retrieve/list employee data.
 with update request we can update specific id data. 
 with delete request we can delete specific id data. 
 
-
+I have used django's generic views classes for apis in this project.
