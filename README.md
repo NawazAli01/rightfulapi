@@ -3,7 +3,7 @@ CRUD Apis
 
 In this project, I have added four main Api requests that are GET, POST, PUT, DELETE.
 
-And there are specific urls which should be needed to make requests so I am adding the urls here:
+And there are specific route urls which should be used to make requests so I am adding the url paths here for better understanding:
 
 Create: http://127.0.0.1:8000/employee/create/
 Retreive: http://127.0.0.1:8000/employee/api/
